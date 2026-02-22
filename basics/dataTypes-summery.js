@@ -46,3 +46,13 @@ console.log(typeof anotherId);
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
 //Array ,objects, Functions
+
+//+++++++++++++++++++++++++++++++++++
+
+// memory are two type stack ,heap
+// stack(Primitive)==copy milti ,heap(non primitive)=reference milta hai
+let myInstaName="tarun.rajput05"
+let anotherName= myInstaName
+anotherName ="papakipari"
+console.log(anotherName);
+console.log(myInstaName)
