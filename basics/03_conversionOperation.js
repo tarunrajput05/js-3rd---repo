@@ -14,3 +14,7 @@ let stringNumber=String(someNumber)
 console.log(typeof stringNumber);
 
 console.log(stringNumber);
+let gameCounter=54878457
+--gameCounter
+console.log(gameCounter);
+
